@@ -31,7 +31,7 @@ When it detects distraction, it can **automatically mute system audio** to reduc
 
 ## ⚙️ Tech Stack
 
-**Python · Scikit-learn · Pandas · Psutil · Pynput · Tkinter · Matplotlib · Streamlit · PyInstaller**
+**Python · Scikit-learn · Pandas · Psutil · Pynput · Tkinter · Matplotlib · PyInstaller**
 
 ---
 

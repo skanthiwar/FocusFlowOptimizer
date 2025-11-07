@@ -1,0 +1,5 @@
+Timestamp,Active_App,Key_Rate,Mouse_Rate,Predicted_State,Confidence
+2025-11-07 20:50:52,unknown.exe,0,3,Flow,0.579
+2025-11-07 20:50:57,unknown.exe,0,4,Distracted,0.397
+2025-11-07 20:51:02,unknown.exe,0,3,Flow,0.579
+2025-11-07 20:51:07,unknown.exe,2,1,Flow,0.515
